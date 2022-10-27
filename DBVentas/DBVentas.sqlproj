@@ -60,6 +60,7 @@
   <ItemGroup>
     <Build Include="venta.sql" />
     <Build Include="concepto.sql" />
+    <Build Include="producto.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DBVentas.refactorlog" />
